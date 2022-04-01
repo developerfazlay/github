@@ -1,0 +1,10 @@
+At first create a repository then copy the link and paste on git bash command field-> git clone url then press enter
+Close the git bash command and open within the folder that's downloaded
+
+Now will start to upload a new file
+Create a file and upload on the folder
+git status
+git init .
+git status
+git commit -m "My Message"
+git push
